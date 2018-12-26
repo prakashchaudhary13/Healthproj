@@ -1,0 +1,23 @@
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 16px;
+	 background: #009688;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.my-4{
+	color: azure;
+	 
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
